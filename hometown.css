@@ -1,0 +1,113 @@
+*{
+   margin: 0; 
+   padding: 0;
+   font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: wheat;
+}
+
+.content{
+    font-size: 14px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+}
+.image{
+    width: 100%; 
+     height: 15rem; 
+    display: flex;
+    align-items: justify;
+    flex-direction:row-reverse;
+    color: rgb(0, 0, 0);
+    margin-top: 0rem;
+}
+.acontainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 5%;
+    width: 100%;
+    height: 6rem;
+    margin-right: 2rem;
+}
+.iunilag{
+    width:15rem;
+    height: 6rem;
+    border-radius: 50%;
+    margin-top: .5rem;
+    margin-bottom: 2rem;
+}
+.makokos{
+    width:15rem;
+    height: 7rem;
+    border-radius: 50%;
+margin-left: 20rem;
+margin-top: 3rem;
+margin-bottom: 2rem;
+}
+.bikoyi{
+    width:15rem;
+    height: 7rem;
+    border-radius: 50%;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    margin-left: 15rem; 
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+}
+ .writing{
+   display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 55%;
+    font-size: 15px;
+    color: black;
+    margin-top: 5px;
+    margin-left: 10px;
+    justify-content: center;
+    padding-right: 15rem;
+} 
+p{
+    text-align: center;
+}
+ h2{
+    color: blue;
+    font-size: 22px;
+    text-align: start;
+ }
+ .writings{
+    color: black;
+    gap: .5rem;
+    display: flex;
+    flex-direction: row;
+    margin: .5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 5rem;
+    justify-content: center;
+ }
+.palace{
+    margin-left: 15rem;
+    text-align: center   
+    justify-content:center;  
+
+}
+.slumi{
+     margin-left: 15rem;    
+}
+.mimage{
+    width: 100px;
+}
+.guiding{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    margin-left: 40%;
+background-color: whitesmoke;
+width: 35%;
+border: solid;
+border-radius: 5%;
+}
